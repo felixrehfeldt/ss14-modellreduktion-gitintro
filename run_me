@@ -3,7 +3,7 @@
 from __future__ import division
 from sys import exit
 
-exit(1/3 > 0)
+exit(0)
 '''
 Cras egestas neque lorem, et condimentum mi eleifend eget. Duis dictum, lorem quis pretium consectetur, risus mauris blandit nulla, id hendrerit tellus dui vitae nulla. Suspendisse id tellus quis ligula suscipit aliquet ac in massa. Proin eget justo in eros bibendum sodales. Duis semper, diam sit amet venenatis elementum, nulla lacus imperdiet velit, nec volutpat odio odio eu nisl. Curabitur augue diam, accumsan id vulputate a, rutrum at lacus. Donec tempus sodales vehicula. Etiam egestas sapien sed vulputate luctus. Morbi faucibus blandit diam a consectetur. Pellentesque rhoncus feugiat metus sit amet rhoncus. Vivamus in aliquet sapien, quis eleifend nibh. Vestibulum feugiat neque elit, nec placerat velit adipiscing sed. Mauris consequat ut enim cursus consectetur. Praesent nec commodo dolor. Donec odio erat, varius sit amet mattis id, commodo feugiat risus. Nam ultrices dictum lobortis.
 
